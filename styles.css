@@ -45,7 +45,7 @@ section{
     color: #fff;
     padding:.7rem 2.5rem;
     cursor: pointer;
-    font-size: 1.7rem;
+    font-size: 1.5rem;
 }
 
 .btn:hover{
@@ -67,7 +67,7 @@ header {
 }
 
 header .logo {
-    font-size: 2.5rem;
+    font-size: 2rem;
     color: #333;
     font-weight: bolder;
 }
@@ -77,8 +77,8 @@ header .logo span {
 }
 
 header .navbar a {
-    font-size: 2rem;
-    padding: 0 4rem;
+    font-size: 1.7rem;
+    padding: 0 3rem;
     color: #666;
 }
 
@@ -87,7 +87,7 @@ header .navbar a:hover {
 }
 
 header .icons a {
-    font-size: 2.5rem;
+    font-size: 2rem;
     color: #f8e8f0;
     margin-left: 1.5rem;
 }
@@ -114,12 +114,12 @@ header #toggler {
 }
 
 .home .content h3{
-    font-size:10rem;
+    font-size:8.5rem;
     color: #333;
 }
 
 .home .content span{
-    font-size: 1.8rem;
+    font-size: 2rem;
     color:var(--pink);
     padding:1rem 0;
     line-height: 1.5;
@@ -158,7 +158,7 @@ header #toggler {
 .about .row .contain h3{
     position: absolute;
     top: 90%; transform: translateY(-50%);
-    font-size: 4rem;
+    font-size: 3rem;
     background: #ffff;
     width: 100%;
     padding: 2rem 2rem;
